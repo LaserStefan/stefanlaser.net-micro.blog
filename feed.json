@@ -7,6 +7,30 @@
 	"items": [
 		
 			{
+				"id": "http://stefanlaser.micro.blog/2024/05/31/one-theme-in.html",
+				
+				"content_html": "<p>One theme in my research about chip value chains is that #semiconductor firms invest a lot of R&amp;D and money into lowering the ecological impact. Chemicals, energy, water.</p>\n<p>Big customers want it.</p>\n<p>And then we study our university #IT systems and find no #sustainability pressure. Strange blind spot</p>\n",
+				"content_text": "One theme in my research about chip value chains is that #semiconductor firms invest a lot of R&D and money into lowering the ecological impact. Chemicals, energy, water. \n\nBig customers want it.\n\nAnd then we study our university #IT systems and find no #sustainability pressure. Strange blind spot\n",
+				"date_published": "2024-05-31T13:26:38+07:00",
+				"url": "https://stefanlaser.net/2024/05/31/one-theme-in.html"
+			},
+			{
+				"id": "http://stefanlaser.micro.blog/2024/05/27/its-linux-time.html",
+				
+				"content_html": "<p>It&rsquo;s #linux time. Since Windows and Mac OS are moving in a questionable direction and my laptop was getting slower, I tried #popos.</p>\n<p>A truly magnificent system. All the modern apps are there. Smooth. Sleek. Nothing compared to Ubuntu a few years ago, or Arch tinkering, or my dust-craving Cubes OS.</p>\n",
+				"content_text": "It's #linux time. Since Windows and Mac OS are moving in a questionable direction and my laptop was getting slower, I tried #popos. \r\n\r\nA truly magnificent system. All the modern apps are there. Smooth. Sleek. Nothing compared to Ubuntu a few years ago, or Arch tinkering, or my dust-craving Cubes OS. \n",
+				"date_published": "2024-05-27T19:42:15+07:00",
+				"url": "https://stefanlaser.net/2024/05/27/its-linux-time.html"
+			},
+			{
+				"id": "http://stefanlaser.micro.blog/2024/05/25/icq-will-turn.html",
+				
+				"content_html": "<p>#ICQ will turn off soon. I grew up with it&rsquo;s weird aoooo and still know my quite long ID by heart. It was sensational, in contrast to the other, hacky (also cool) #IRC.</p>\n<p>It was the first DM app I and everyone around me used and loved. #WhatsApp never came close.</p>\n<p><a href=\"https://hackerweb.app/#/item/40467625\">hackerweb.app</a></p>\n",
+				"content_text": "#ICQ will turn off soon. I grew up with it's weird aoooo and still know my quite long ID by heart. It was sensational, in contrast to the other, hacky (also cool) #IRC. \n\nIt was the first DM app I and everyone around me used and loved. #WhatsApp never came close.\n\n[hackerweb.app](https://hackerweb.app/#/item/40467625)\n",
+				"date_published": "2024-05-25T13:01:27+07:00",
+				"url": "https://stefanlaser.net/2024/05/25/icq-will-turn.html"
+			},
+			{
 				"id": "http://stefanlaser.micro.blog/2024/05/22/whats-a-hot.html",
 				
 				"content_html": "<p>What&rsquo;s a hot and useful technique in network #dataviz?</p>\n<p>I am fiddling around with a graph that represents extractive practices around a #datacenter. Work in progress in #Obsidian. #sts</p>\n<p>Going minimal? Staying with the trouble of dots and lines, but with style? Or: layers, an infographic, &hellip;?</p>\n<!-- raw HTML omitted -->\n",
@@ -26,7 +50,7 @@
 				"id": "http://stefanlaser.micro.blog/2024/05/20/saigon-vibes-streetphotography.html",
 				
 				"content_html": "<p>#Saigon vibes. #streetphotography</p>\n<p>I&rsquo;ve been to a lovely #sts conference in #HCMC (more on this elsewhere).</p>\n<p>The south of #vietnam is a somewhat different place. The first random chat in town was about business (am I with Intel, em??), hitting one stereotype right on the head. But there&rsquo;s more.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "#Saigon vibes. #streetphotography\n\nI've been to a lovely #sts conference in #HCMC (more on this elsewhere).\n\nThe south of #vietnam is a somewhat different place. The first random chat in town was about business (am I with Intel, em??), hitting one stereotype right on the head. But there's more.\n\n<img src=\"uploads/2024/574420cc73.jpg\" width=\"400\" height=\"600\" alt=\"Early morning shot from typical Vietnamese buildings stacked on top of each other. A washed off, yellowish concrete block is illuminated by the sun. Clothes are drying outside \"><img src=\"uploads/2024/0657992d96.jpg\" width=\"400\" height=\"600\" alt=\"Photograph form the inside of Saigon's most famous markets, where you can buy lots of different crafts, food (and Chinese imports). Sort of colonial architecture, yellowish, and there's a guy running around with two phở. No smoking sign on top\"><img src=\"uploads/2024/7996570cc3.jpg\" width=\"400\" height=\"600\" alt=\"Photograph into a newly built shop. Lots of pols. Construction is going on, a worker cuts metal, spraying sparks. Another worker watched. Nice flooring.\">\n",
+				"content_text": "#Saigon vibes. #streetphotography\n\nI've been to a lovely #sts conference in #HCMC (more on this elsewhere).\n\nThe south of #vietnam is a somewhat different place. The first random chat in town was about business (am I with Intel, em??), hitting one stereotype right on the head. But there's more.\n\n<img src=\"https://cdn.uploads.micro.blog/129890/2024/574420cc73.jpg\" width=\"400\" height=\"600\" alt=\"Early morning shot from typical Vietnamese buildings stacked on top of each other. A washed off, yellowish concrete block is illuminated by the sun. Clothes are drying outside \"><img src=\"https://cdn.uploads.micro.blog/129890/2024/0657992d96.jpg\" width=\"400\" height=\"600\" alt=\"Photograph form the inside of Saigon's most famous markets, where you can buy lots of different crafts, food (and Chinese imports). Sort of colonial architecture, yellowish, and there's a guy running around with two phở. No smoking sign on top\"><img src=\"https://cdn.uploads.micro.blog/129890/2024/7996570cc3.jpg\" width=\"400\" height=\"600\" alt=\"Photograph into a newly built shop. Lots of pols. Construction is going on, a worker cuts metal, spraying sparks. Another worker watched. Nice flooring.\">\n",
 				"date_published": "2024-05-20T08:57:57+07:00",
 				"url": "https://stefanlaser.net/2024/05/20/saigon-vibes-streetphotography.html"
 			},
