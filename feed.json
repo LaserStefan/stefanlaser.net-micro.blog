@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://stefanlaser.micro.blog/2026/01/21/vietnam-is-pushing-hard-on.html",
+				
+				"content_html": "<p>#Vietnam is pushing hard on the #semiconductor front, the first fab in view. 32 nm only, and few details on how it shall be built. But it remains a theme reshuffling funds, also supported by growth in #datacenter investment.</p>\n<p>All very risky, but capital wants to move.\n<a href=\"https://thevietnamweekly.substack.com/p/the-digital-drive\">thevietnamweekly.substack.com/p/the-dig&hellip;</a></p>\n",
+				"content_text": "#Vietnam is pushing hard on the #semiconductor front, the first fab in view. 32 nm only, and few details on how it shall be built. But it remains a theme reshuffling funds, also supported by growth in #datacenter investment.\n\nAll very risky, but capital wants to move.\n[thevietnamweekly.substack.com/p/the-dig...](https://thevietnamweekly.substack.com/p/the-digital-drive)\n",
+				"date_published": "2026-01-21T10:14:34+01:00",
+				"url": "https://stefanlaser.net/2026/01/21/vietnam-is-pushing-hard-on.html"
+			},
+			{
 				"id": "http://stefanlaser.micro.blog/2026/01/14/obsidian-goes-claude-die-faz.html",
 				
 				"content_html": "<p>#Obsidian goes #Claude. Die FAZ berichtet begeistert, es ist fast traurig (lies: extrem witzig), diese #KI Prosa. Fixe Absätze, 8x &ldquo;nicht nur A, sondern B-Sätze, ein anderer Satz wird komplett wiederholt.</p>\n<p>&ldquo;Das klingt unspektakulär. Es ist das Gegenteil.&rdquo;</p>\n<p>🔗<a href=\"https://archive.is/2RpiX\">archive.is/2RpiX</a></p>\n",
@@ -42,7 +50,7 @@
 				"id": "http://stefanlaser.micro.blog/2025/12/23/closing-taiwain-w-a-run.html",
 				
 				"content_html": "<p>Closing #Taiwain w/ a run in the mountains, Jazz and food. 👏 #photography</p>\n<p>And now, an 18hrs flight later, I&rsquo;m back in Germany.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "Closing #Taiwain w/ a run in the mountains, Jazz and food. 👏 #photography\n\nAnd now, an 18hrs flight later, I'm back in Germany.\n\n<img src=\"uploads/2025/22e868a480.jpg\" width=\"425\" height=\"600\" alt=\"A HDR view from the hills down the alley, with vibrant hont spring water in the front \"><img src=\"uploads/2025/2f02455715.jpg\" width=\"413\" height=\"600\" alt=\"A skyline from above, framed by trees. The sky a mix of sun and light clouds \"><img src=\"uploads/2025/d102c2d63d.jpg\" width=\"450\" height=\"600\" alt=\"A picture from Jazz night, drummer and vase in focus..\"><img src=\"uploads/2025/63c1e9748e.jpg\" width=\"450\" height=\"600\" alt=\"A macro shot of a caramel desert, very tasty, finishing off a Ramen meal in Taipei\">\n",
+				"content_text": "Closing #Taiwain w/ a run in the mountains, Jazz and food. 👏 #photography\n\nAnd now, an 18hrs flight later, I'm back in Germany.\n\n<img src=\"https://cdn.uploads.micro.blog/129890/2025/22e868a480.jpg\" width=\"425\" height=\"600\" alt=\"A HDR view from the hills down the alley, with vibrant hont spring water in the front \"><img src=\"https://cdn.uploads.micro.blog/129890/2025/2f02455715.jpg\" width=\"413\" height=\"600\" alt=\"A skyline from above, framed by trees. The sky a mix of sun and light clouds \"><img src=\"https://cdn.uploads.micro.blog/129890/2025/d102c2d63d.jpg\" width=\"450\" height=\"600\" alt=\"A picture from Jazz night, drummer and vase in focus..\"><img src=\"https://cdn.uploads.micro.blog/129890/2025/63c1e9748e.jpg\" width=\"450\" height=\"600\" alt=\"A macro shot of a caramel desert, very tasty, finishing off a Ramen meal in Taipei\">\n",
 				"date_published": "2025-12-23T08:56:45+01:00",
 				"url": "https://stefanlaser.net/2025/12/23/closing-taiwain-w-a-run.html"
 			},
