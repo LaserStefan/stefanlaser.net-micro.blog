@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://stefanlaser.micro.blog/2026/04/16/teaching-is-just-another-word.html",
+				
+				"content_html": "<p>&ldquo;Teaching&rdquo; is just another word for running around, from A to B to A, and collecting things.*</p>\n<p>*Or, how to walk 10 km at Ruhr-Uni Bochum.</p>\n",
+				"content_text": "\"Teaching\" is just another word for running around, from A to B to A, and collecting things.*\n\n*Or, how to walk 10 km at Ruhr-Uni Bochum.\n",
+				"date_published": "2026-04-16T17:14:51+01:00",
+				"url": "https://stefanlaser.net/2026/04/16/teaching-is-just-another-word.html"
+			},
+			{
 				"id": "http://stefanlaser.micro.blog/2026/04/15/on-the-radio-i-hear.html",
 				
 				"content_html": "<p>On the radio, I hear the German research foundation #DFG defend its recent move to allow #AI in project reviews, just with local setups, just for language clarity &ndash; lots of reservations.</p>\n<p>I then listen to the most recent episode of Mél&rsquo;s Data Fix podcast. An anonymous guest (🔥) talks about their daily chatbot use and how it is both useful (we need more concrete honesty) and addictive, sucking you in for follow-ups, offering more.</p>\n<p>DFG, any discussion of that issue?</p>\n<p><a href=\"https://pca.st/rnby9g1z\">pca.st/rnby9g1z</a></p>\n",
